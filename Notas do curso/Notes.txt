@@ -1,0 +1,29 @@
+18/08/2024
+
+NOTAS DO CURSO FULLSTACK
+
+MÓDULO 1: CONFIGURANDO SEU AMBIENTE
+
+3. "Programador e seus super poderes"
+
+Programador é o profissional que desenvolve software, atuações:
+Software é um conjunto de instruções para o computador
+O que um programador pode criar? 
+Websites, landing pages, etc
+Aplicações GUI ( Graphical user interface) (web, desktop, mobile) Existe uma maior interação com a aplicação, como ajustes, edições... É uma aplicação com uma atuação mais complexa do que simplesmente acessar informações como no caso de aplicações web tradicionais. Ex: Word
+Aplicações CLI ( Comand Line Interface) Ex: Git -> Prompt de Comando.
+Sistemas embarcados (que controlam máquinas e dispositivos específicos) Ex: Como na Fábrica
+Scripts de automação, chatbots e outros utilitários
+E muitos outros tipos de software
+
+5. "Sistemas Operacionais" 
+
+Sistema Operacional é o principal software do computador e faz a ponte entre o software e o hardware, permitindo que o usuário interaja os pormenores do computador. Ex: Linux, MacOS, Windows.
+Pode-se usar Linux através do Windows como o WSL.
+O SO é responsável por permitir que o usuário seja capaz de interagir com o hardware
+Executar outros softwares, gerenciar o uso da memória, o armazenamento, o processamento, o sistema de arquivos, etc
+Por exemplo, você sabe o que realmente acontece ao executar um arquivo no seu PC? 
+Como os arquivos são armazenados em disco, o SO começará encontrando-o no discoO arquivo então é carregado para a memória RAM, que é mais eficiente que a memória secundária 
+(HD, SSD, etc)Depois disso o arquivo será lido e executado pelo processador. Agora imagine isso acontecendo continuamente e em paralelo.
+
+
