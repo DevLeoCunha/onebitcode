@@ -27,3 +27,13 @@ Como os arquivos são armazenados em disco, o SO começará encontrando-o no dis
 (HD, SSD, etc)Depois disso o arquivo será lido e executado pelo processador. Agora imagine isso acontecendo continuamente e em paralelo.
 
 
+8. "Conhecendo o Terminal"
+
+Utilizando o Terminal, usar ".." -> retrocede a pasta. Comando "cd" -> change directory, usa-se "cd Downloads" -> vai pra pasta download. Comando "ls" Lista o conteúdo da pasta atual.
+Para acessar uma pasta ex: cd ../Leonardo (pode usar a barra/ e a virada pra esquerda também.)
+Caso não se lembre o nome da pasta, clicar botão TAB pra completar o nome da pasta que quer ir. -> code . -> cria arquivo na pasta raiz "C" lá no VSCODE
+"cp" -> copia arquivo e o nomeia -> cp index.html ./home.html
+"mv" -> move arquivo -> mv home.html ../ <- Manda pra pasta anterior
+"rm" -> remove arquivo ou diretório
+
+
