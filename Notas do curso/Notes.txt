@@ -37,3 +37,13 @@ Caso não se lembre o nome da pasta, clicar botão TAB pra completar o nome da p
 "rm" -> remove arquivo ou diretório
 
 
+Olá, tudo bem?
+
+Sou Leonardo, estudante de front-end. Imagino que queremos nos desenvolver como profissional.
+
+O linkedin é uma ferramenta importante para isso, e estar engajado nas redes ajuda nessa jornada.
+Por esse motivo o convido a deixar um comentário ou reação em qualquer publicação minha, farei o mesmo contigo, penso que nos ajudando alcançamos nossos objetivos.
+
+Muito obrigado (=.
+
+
